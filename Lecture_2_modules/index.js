@@ -8,3 +8,4 @@ console.log("Adding two number:", sum(10,20));
 console.log("subtracting two number:", sub(10,20));
 console.log("multiplying two number:", mul(10,20));
 console.log("division two number:", div(10,20));
+//https://www.youtube.com/watch?v=EfWlJ9-1fVw
